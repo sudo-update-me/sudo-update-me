@@ -2,11 +2,13 @@
 <p align = "center">
   <a href = "https://www.youtube.com/channel/UCAHlTx8lQ_6Kb6vXwYMq4ng"> Sudo Update </h3> 
   <p align = "center">
-    <a href="https://www.youtube.com/channel/UCAHlTx8lQ_6Kb6vXwYMq4ng]">
-     <img alt="youtube subscribers" src="https://github-readme-youtube-stats.herokuapp.com/subscribers/index.php? id=UCAHlTx8lQ_6Kb6vXwYMq4ng&key=AIzaSyBvgHjUK4UNUFltvOVjqdrFJrVypW13DNQ"/>
-    </a>
+    <a href="https://www.youtube.com/channel/UCAHlTx8lQ_6Kb6vXwYMq4ng">
+ <img alt="youtube views" src="https://github-readme-youtube-stats.herokuapp.com/views/index.php?id=UCAHlTx8lQ_6Kb6vXwYMq4ng&key=AIzaSyBvgHjUK4UNUFltvOVjqdrFJrVypW13DNQ"/>
+</a>
   </p>
 </p>
+
+
 
 
 High velocity 💥 web technologies tutorials🦾 in Hindi 🇮🇳  : 
