@@ -1,4 +1,4 @@
-# [Sudo Update me](https://www.youtube.com/channel/UCAHlTx8lQ_6Kb6vXwYMq4ng)
+# [Sudo Update](https://www.youtube.com/channel/UCAHlTx8lQ_6Kb6vXwYMq4ng)
 It's a [youtube](https://www.youtube.com/channel/UCAHlTx8lQ_6Kb6vXwYMq4ng) channel that provides High velocity 💥 web technologies tutorials🦾 in Hindi 🇮🇳  : 
 - Updates on existing and new tech 🥷🏻
 - Introduction and get started videos ✍️
